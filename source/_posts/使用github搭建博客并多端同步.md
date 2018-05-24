@@ -2,6 +2,7 @@
 title: 使用github搭建博客并多端同步
 date: 2018-05-23 13:56:55
 tags:
+	- git使用小记
 ---
 今天有空尝试了一下使用github搭建博客，刚开始拜读了这一篇文章[hexo博客搭建指南](https://github.com/limedroid/HexoLearning)，并成功搭建了起来。
 
