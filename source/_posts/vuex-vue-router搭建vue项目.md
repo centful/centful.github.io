@@ -4,3 +4,5 @@ tags:
 	- vue.js
 ---
 本文将使用vue+vuex+vue-router来构建一个全新的vue项目
+
+
